@@ -1989,7 +1989,7 @@ pd.plotting.scatter_matrix(df_percents, figsize=(15,15));
 
 
     
-![png](output_23_0.png)
+![png](https://raw.githubusercontent.com/hedeya1980/Images/main/scatter_matrix.png)
     
 
 
@@ -2003,7 +2003,7 @@ sns.heatmap(df_percents.corr(), annot=True, fmt=".2f");
 
 
     
-![png](output_25_0.png)
+![png](https://raw.githubusercontent.com/hedeya1980/Images/main/corr_heatmap.png)
     
 
 
